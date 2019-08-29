@@ -22,7 +22,7 @@
     },
     "require": {
         "php": ">=5.3.2",
-        "kriswallsmith/assetic": "1.*",
+        "kriswallsmith/assetic": "2.*",
         "composer-plugin-api": "^1.0"
     },
     "require-dev": {
